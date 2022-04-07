@@ -10,3 +10,7 @@ Aquest és un exercici de git i markdown. Afegirem a aquest projecte **web** per
 * les captures de pantalla
 * el fitxer de markdown ben fet
 * publicar la web a git
+
+I ara la foto d'un *gatete*:
+
+![foto d'un gat](./gat.webp)
